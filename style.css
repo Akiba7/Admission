@@ -3,15 +3,14 @@ body {
     background-image: url(background.jpg);
     background-size: cover;
     color: white;
-    display: inline-block;
+
 }
 
 #Backbox {
     background-color: rgba(0, 0, 0, 0.516);
-    margin-left: 280px;
-    margin-top: 16px;
+    margin: auto;
     padding: 80px 55px 80px 55px;
-    width: 850px;
+    width: 700px;
     border-radius: 15px;
 }
 
