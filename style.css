@@ -8,9 +8,9 @@ body {
 
 #Backbox {
     background-color: rgba(0, 0, 0, 0.516);
-    margin: auto;
-    padding: 80px 55px 80px 55px;
-    width: 700px;
+    margin: 3% auto 0 auto;
+    padding: 55px 55px 55px 55px;
+    width: 850px;
     border-radius: 15px;
 }
 
